@@ -26,7 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TestletLib\TestletLib.csproj" />
+    <ProjectReference Include="..\TestletLib\TestArcadia.TestletLib.csproj" />
   </ItemGroup>
 
   <ItemGroup>
